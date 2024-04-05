@@ -51,7 +51,7 @@ Hi, I'm Alex, a **Python fullstack developer** specializing in the Django framew
 ## Follow me
 
 <p>
-  <a href="linkedin.com/in/alex-guillin" style="text-decoration: none;" target="_blank"><img alt="LinkedIn" width="100px" src="https://i.ibb.co/vvCK86M/Linkedin-badge.png" /></a> <a href="https://twitter.com/alex_cap0n3" style="text-decoration: none;" target="_blank"><img alt="Twitter" width="100px" src="https://i.ibb.co/YT7Jvfg/X-Badge.png" /></a>
+  <a href="linkedin.com/in/alex-guillin" style="text-decoration: none;" target="_blank"><img alt="LinkedIn" width="100px" src="https://i.ibb.co/vvCK86M/Linkedin-badge.png" /></a> <a href="https://twitter.com/alex_cap0n3" style="text-decoration: none;" target="_blank"><img alt="Twitter" width="100px" src="https://i.ibb.co/YT7Jvfg/X-Badge.png" /></a> <a href="https://twitter.com/alex_cap0n3" style="text-decoration: none;" target="_blank"><img alt="Medium" width="100px" src="https://i.ibb.co/DbPXfn2/Medium-Badge.png" /></a> 
 </p>
 
 ## Hire me
