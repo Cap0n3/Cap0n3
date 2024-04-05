@@ -12,7 +12,7 @@ Hi, I'm Alex, a **Python fullstack developer** specializing in the Django framew
 👨‍🏫 I'm also a passionate educator, convinced that sharing knowledge is fundamental to personal and professional development. I apply this philosophy in my guitar lessons as well as in my programming mentorships, where I strive to inspire my students and help them realize their potential.
 
 
-## Skills
+## Skills 🎯
 
 ### Full Stack Integration:
 
@@ -48,13 +48,12 @@ Hi, I'm Alex, a **Python fullstack developer** specializing in the Django framew
 </div>
 <br>
 
-## Follow me
-
+## Follow me 🔭
 <p>
   <a href="linkedin.com/in/alex-guillin" style="text-decoration: none;" target="_blank"><img alt="LinkedIn" width="100px" src="https://i.ibb.co/vvCK86M/Linkedin-badge.png" /></a> <a href="https://twitter.com/alex_cap0n3" style="text-decoration: none;" target="_blank"><img alt="Twitter" width="100px" src="https://i.ibb.co/YT7Jvfg/X-Badge.png" /></a> <a href="https://medium.com/@dev.aguillin" style="text-decoration: none;" target="_blank"><img alt="Medium" width="100px" src="https://i.ibb.co/swtQqNx/Medium-Badge.png" /></a> 
 </p>
 
-## Hire me
+## Hire me 🤝 💼
 
 <p>
   <a href="https://www.malt.ch/profile/alexandreguillin" style="text-decoration: none;" target="_blank"><img alt="Malt" width="100px" src="https://i.ibb.co/FWRBKzd/Malt-Badge.png" /></a>
