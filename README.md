@@ -31,11 +31,11 @@ Hi, I'm Alex, a **Python fullstack developer** specializing in the Django framew
 
   <img align="left" alt="Javascript" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
-  <img align="left" alt="Bash" width="30px" style="margin-right:10px; background-color: #3E9798" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+  <img align="left" alt="Bash" width="30px" style="margin-right:10px;" src="https://i.ibb.co/v4Xsv27/bash-original.png" />
             
   <img align="left" alt="Postgres" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 
-  <img align="left" alt="Django" width="25px" style="background-color: #3D9561; margin-right:10px; padding:3px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+  <img align="left" alt="Django" width="25px" style="margin-right:10px; padding:3px" src="https://i.ibb.co/qdPYsTt/django-plain.png" />
 
   <img align="left" alt="React" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 
@@ -61,7 +61,7 @@ Hi, I'm Alex, a **Python fullstack developer** specializing in the Django framew
   </a>
 
   <a href="https://twitter.com/alex_cap0n3" style="text-decoration: none;" target="_blank">
-    <img align="left" alt="LinkedIn" width="23px" style="margin-right:10px; padding:3px; background-color: white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" />
+    <img align="left" alt="Twitter" width="23px" style="margin-right:10px; padding:3px;" src="https://i.ibb.co/qCrCV7R/twitter-original.png" />
   </a>
 
 </div>
