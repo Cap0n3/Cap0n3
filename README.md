@@ -2,6 +2,7 @@
 
 🧪 **`Digital Alchemist (Developer/Musician/Creator)`** 🚀
 
+
 Hi, I'm Alex, a **Python fullstack developer** specializing in the Django framework. My atypical career path began in the world of music, where I fully embraced my passion as an active musician, guitar teacher and producer. In 2018, after more than two decades in the arts, I began a gradual transition to the technology sector. My journey began with several training courses on Linux, Bash, PHP and Javascript before turning to learning Python programming.
 
 🖥️ My love of IT and insatiable curiosity led me to delve into fullstack development, where I implement solutions for web applications. My mastery of Django, Django REST and React JS enables me to implement complete web solutions.
@@ -25,38 +26,42 @@ Hi, I'm Alex, a **Python fullstack developer** specializing in the Django framew
 
 <br>
 
-<img align="left" alt="Python" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
+<div style="width: 100%; display: flex; justify-content: center;">
+  <img align="left" alt="Python" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
 
-<img align="left" alt="Javascript" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="left" alt="Javascript" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
-<img align="left" alt="Bash" width="30px" style="margin-right:10px; background-color: #3E9798" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
-        
-<img align="left" alt="Postgres" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img align="left" alt="Bash" width="30px" style="margin-right:10px; background-color: #3E9798" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+            
+  <img align="left" alt="Postgres" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 
-<img align="left" alt="Django" width="25px" style="background-color: #3D9561; margin-right:10px; padding:3px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+  <img align="left" alt="Django" width="25px" style="background-color: #3D9561; margin-right:10px; padding:3px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
 
-<img align="left" alt="React" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img align="left" alt="React" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 
-<img align="left" alt="React" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-plain.svg" />
-       
-<img align="left" alt="Railway" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original.svg" />
+  <img align="left" alt="React" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-plain.svg" />
+           
+  <img align="left" alt="Railway" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original.svg" />
 
-<img align="left" alt="Git" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img align="left" alt="Git" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
-<img align="left" alt="Git" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img align="left" alt="Git" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
           
+</div>
 <br>
 
 ## Find me
 
 ---
 
+<div style="width: 100%; display: flex; justify-content: center;">
 
-<a href="linkedin.com/in/alex-guillin" style="text-decoration: none;" target="_blank">
-  <img align="left" alt="LinkedIn" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
-</a>
+  <a href="linkedin.com/in/alex-guillin" style="text-decoration: none;" target="_blank">
+    <img align="left" alt="LinkedIn" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+  </a>
 
-<a href="https://twitter.com/alex_cap0n3" style="text-decoration: none;" target="_blank">
-  <img align="left" alt="LinkedIn" width="23px" style="margin-right:10px; padding:3px; background-color: white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" />
-</a>
+  <a href="https://twitter.com/alex_cap0n3" style="text-decoration: none;" target="_blank">
+    <img align="left" alt="LinkedIn" width="23px" style="margin-right:10px; padding:3px; background-color: white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" />
+  </a>
 
+</div>
