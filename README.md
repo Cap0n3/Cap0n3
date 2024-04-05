@@ -53,11 +53,11 @@ Hi, I'm Alex, a **Python fullstack developer** specializing in the Django framew
 <div style="width: 100%; display: flex; justify-content: center;">
 
   <a href="linkedin.com/in/alex-guillin" style="text-decoration: none;" target="_blank">
-    <img align="left" alt="LinkedIn" width="35px" height="35px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+    <img alt="LinkedIn"  style="margin-right:10px;" width="100px" src="https://i.ibb.co/vvCK86M/Linkedin-badge.png" />
   </a>
 
   <a href="https://twitter.com/alex_cap0n3" style="text-decoration: none;" target="_blank">
-    <img align="left" alt="Twitter" width="30px" height="30px" style="margin-right:10px; padding:3px;" src="https://i.ibb.co/qCrCV7R/twitter-original.png" />
+    <img alt="Twitter" width="100px" style="margin-right:10px" src="https://i.ibb.co/YT7Jvfg/X-Badge.png" />
   </a>
 
 </div>
