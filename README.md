@@ -53,7 +53,7 @@ Hi, I'm Alex, a **Python fullstack developer** specializing in the Django framew
   <a href="linkedin.com/in/alex-guillin" style="text-decoration: none;" target="_blank"><img alt="LinkedIn" width="100px" src="https://i.ibb.co/vvCK86M/Linkedin-badge.png" /></a> <a href="https://twitter.com/alex_cap0n3" style="text-decoration: none;" target="_blank"><img alt="Twitter" width="100px" src="https://i.ibb.co/YT7Jvfg/X-Badge.png" /></a> <a href="https://medium.com/@dev.aguillin" style="text-decoration: none;" target="_blank"><img alt="Medium" width="100px" src="https://i.ibb.co/swtQqNx/Medium-Badge.png" /></a> 
 </p>
 
-## Hire me 🤝 💼
+## Hire me 💼
 
 <p>
   <a href="https://www.malt.ch/profile/alexandreguillin" style="text-decoration: none;" target="_blank"><img alt="Malt" width="100px" src="https://i.ibb.co/FWRBKzd/Malt-Badge.png" /></a>
