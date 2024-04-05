@@ -27,41 +27,41 @@ Hi, I'm Alex, a **Python fullstack developer** specializing in the Django framew
 <br>
 
 <div style="width: 100%; display: flex; justify-content: center;">
-  <img align="left" alt="Python" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
+  <img align="left" alt="Python" width="30px" height="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
 
-  <img align="left" alt="Javascript" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="left" alt="Javascript" width="30px" height="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
-  <img align="left" alt="Bash" width="30px" style="margin-right:10px;" src="https://i.ibb.co/v4Xsv27/bash-original.png" />
+  <img align="left" alt="Bash" width="30px" height="30px" style="margin-right:10px;" src="https://i.ibb.co/v4Xsv27/bash-original.png" />
             
-  <img align="left" alt="Postgres" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img align="left" alt="Postgres" width="30px" height="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 
-  <img align="left" alt="Django" width="25px" style="margin-right:10px; padding:3px" src="https://i.ibb.co/qdPYsTt/django-plain.png" />
+  <img align="left" alt="Django" width="30px" height="30px" style="margin-right:10px; padding:3px" src="https://i.ibb.co/qdPYsTt/django-plain.png" />
 
-  <img align="left" alt="React" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img align="left" alt="React" width="30px" height="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 
-  <img align="left" alt="React" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-plain.svg" />
+  <img align="left" alt="React" width="30px" height="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-plain.svg" />
            
-  <img align="left" alt="Railway" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original.svg" />
+  <img align="left" alt="Railway" width="30px" height="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original.svg" />
 
-  <img align="left" alt="Git" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img align="left" alt="Git" width="30px" height="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
-  <img align="left" alt="Git" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img align="left" alt="Git" width="30px" height="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
           
 </div>
 <br>
 
-## Find me
+## Follow me
 
 ---
 
 <div style="width: 100%; display: flex; justify-content: center;">
 
   <a href="linkedin.com/in/alex-guillin" style="text-decoration: none;" target="_blank">
-    <img align="left" alt="LinkedIn" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+    <img align="left" alt="LinkedIn" width="35px" height="35px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
   </a>
 
   <a href="https://twitter.com/alex_cap0n3" style="text-decoration: none;" target="_blank">
-    <img align="left" alt="Twitter" width="23px" style="margin-right:10px; padding:3px;" src="https://i.ibb.co/qCrCV7R/twitter-original.png" />
+    <img align="left" alt="Twitter" width="30px" height="30px" style="margin-right:10px; padding:3px;" src="https://i.ibb.co/qCrCV7R/twitter-original.png" />
   </a>
 
 </div>
