@@ -1,6 +1,6 @@
 #  Alex Guillin
 
-🧪 **`Digital Alchemist (Developer/Musician/Creator)`** 🚀
+🧪 **`Fullstack Web Dev + Musician/Creator`** 🚀
 
 
 Hi, I'm Alex, a **Python fullstack developer** specializing in the Django framework. My atypical career path began in the world of music, where I fully embraced my passion as an active musician, guitar teacher and producer. In 2018, after more than two decades in the arts, I began a gradual transition to the technology sector. My journey began with several training courses on Linux, Bash, PHP and Javascript before turning to learning Python programming.
@@ -50,14 +50,12 @@ Hi, I'm Alex, a **Python fullstack developer** specializing in the Django framew
 
 ## Follow me
 
-<div style="width: 100%; display: flex; justify-content: center;">
+<p>
+  <a href="linkedin.com/in/alex-guillin" style="text-decoration: none;" target="_blank"><img alt="LinkedIn" width="100px" src="https://i.ibb.co/vvCK86M/Linkedin-badge.png" /></a> <a href="https://twitter.com/alex_cap0n3" style="text-decoration: none;" target="_blank"><img alt="Twitter" width="100px" src="https://i.ibb.co/YT7Jvfg/X-Badge.png" /></a>
+</p>
 
-  <a href="linkedin.com/in/alex-guillin" style="text-decoration: none;" target="_blank">
-    <img alt="LinkedIn"  style="margin-right:10px;" width="100px" src="https://i.ibb.co/vvCK86M/Linkedin-badge.png" />
-  </a>
+## Hire me
 
-  <a href="https://twitter.com/alex_cap0n3" style="text-decoration: none;" target="_blank">
-    <img alt="Twitter" width="100px" style="margin-right:10px" src="https://i.ibb.co/YT7Jvfg/X-Badge.png" />
-  </a>
-
-</div>
+<p>
+  <a href="https://www.malt.ch/profile/alexandreguillin" style="text-decoration: none;" target="_blank"><img alt="Malt" width="100px" src="https://i.ibb.co/FWRBKzd/Malt-Badge.png" /></a>
+</p>
