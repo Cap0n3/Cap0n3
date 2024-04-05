@@ -1,6 +1,6 @@
 #  Alex Guillin
 
-🧪 **`Fullstack Web Dev + Musician/Creator`** 🚀
+**`Fullstack Web Dev + Musician/Creator`**
 
 
 Hi, I'm Alex, a **Python fullstack developer** specializing in the Django framework. My atypical career path began in the world of music, where I fully embraced my passion as an active musician, guitar teacher and producer. In 2018, after more than two decades in the arts, I began a gradual transition to the technology sector. My journey began with several training courses on Linux, Bash, PHP and Javascript before turning to learning Python programming.
