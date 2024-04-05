@@ -14,8 +14,6 @@ Hi, I'm Alex, a **Python fullstack developer** specializing in the Django framew
 
 ## Skills
 
----
-
 ### Full Stack Integration:
 
 - **Weapons of choice =>** Python, Javascript & Bash
@@ -51,8 +49,6 @@ Hi, I'm Alex, a **Python fullstack developer** specializing in the Django framew
 <br>
 
 ## Follow me
-
----
 
 <div style="width: 100%; display: flex; justify-content: center;">
 
