@@ -17,7 +17,7 @@ Hi, I'm Alex, a **Python and Javascript fullstack web developer**. My atypical c
 ### Full Stack Integration:
 
 - **Weapons of choice =>** Python, Javascript & Bash
-- **Web Frameworks =>** Django + Django REST Framework with React JS
+- **Web Frameworks =>** Django + Django REST Framework + Next JS
 - **UI kits =>** Material UI, Bootstrap
 - **Deployment & Containerization =>** Docker, Railway
 - **Version Control =>** Git, GitHub, GitLab
