@@ -3,7 +3,7 @@
 **`Fullstack Web Dev + Musician/Creator`**
 
 
-Hi, I'm Alex, a **Python and Javascript fullstack web developer**. My atypical career path began in the world of music, where I fully embraced my passion as an active musician, guitar teacher and producer. In 2018, after more than two decades in the arts, I began a gradual transition to the technology sector. My journey began with several training courses on Linux, Bash, PHP and Javascript before turning to learning Python programming.
+Hi, I'm Alex, a **fullstack web developer**. My atypical career path began in the world of music, where I fully embraced my passion as an active musician, guitar teacher and producer. In 2018, after more than two decades in the arts, I began a gradual transition to the technology sector. My journey began with several training courses on Linux, Bash, PHP and Javascript before turning to learning Python programming.
 
 🖥️ My love of IT and insatiable curiosity led me to delve into fullstack development, where I implement solutions for web applications. My mastery of Django, Django REST and React JS enables me to implement complete web solutions.
 
