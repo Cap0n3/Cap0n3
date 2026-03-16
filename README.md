@@ -5,7 +5,7 @@
 
 Hi, I'm Alex, a **fullstack web developer**. My atypical career path began in the world of music, where I fully embraced my passion as an active musician, guitar teacher and producer. In 2018, after more than two decades in the arts, I began a gradual transition to the technology sector. My journey began with several training courses on Linux, Bash, PHP and Javascript before turning to learning Python programming.
 
-🖥️ My love of IT and insatiable curiosity led me to delve into fullstack development, where I implement solutions for web applications. My mastery of Django, Django REST and React JS enables me to implement complete web solutions.
+🖥️ My love of IT and insatiable curiosity led me to delve into fullstack development, where I implement solutions for web applications. My mastery of Django, DRF, Wagtail and React JS enables me to implement complete web solutions.
 
 🎸 Alongside my career as a developer, I remain deeply rooted in the world of music. I regularly perform on stage and share my passion through teaching guitar. This dual skill enriches my approach to technology, integrating creativity and innovation.
 
@@ -16,11 +16,11 @@ Hi, I'm Alex, a **fullstack web developer**. My atypical career path began in th
 
 ### Full Stack Integration:
 
-- **Weapons of choice =>** Python, Javascript & Bash
-- **Web Frameworks =>** Django + Django REST Framework + Next JS
-- **UI kits =>** Material UI, Bootstrap
+- **Weapons of choice =>** Python, JS/TS & Bash
+- **Web Frameworks =>** Django + Next JS
+- **UI =>** Tailwind CSS, Material UI, Bootstrap
 - **Deployment & Containerization =>** Docker, Railway
-- **Version Control =>** Git, GitHub, GitLab
+- **Version Control =>** Git, GitHub
 
 <br>
 
